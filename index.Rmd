@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
+Frank Hermosillo studies neural networks and their applica  tions at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
 decentralized gradient inversion mechanics. He frequently collaborates with 
 researchers who study machine learning, computer vision, and cognitive science.
